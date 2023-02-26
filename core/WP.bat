@@ -1,0 +1,1 @@
+mspaint %AppData%\Microsoft\Windows\Themes\TranscodedWallpaper

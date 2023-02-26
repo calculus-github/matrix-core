@@ -1,0 +1,16 @@
+﻿FirstName;LastName;Username;Email;Password;Company;OU
+loic;berthet;loic;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+justine;croisile;justine;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+evan's;lepel;evan's;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+evan;chabrerie;evan;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+alain;huynh;alain;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+yannis;khellas;yanis;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+georgie;karapetyan;georgie;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+jorge;jimenez;jorge;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+tristan;martinez;tristan;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+miguel;de-almeida;miguel;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+nicod;ficagna;nicod;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+akin;ceylan;akin;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+sebastien;montard;sebastien;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+cyril;berger;cyril;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
+nicolas;pardon;nicolas;formation@ecorp.fr;Lbi@2022;ecorp;OU=employes,OU=ecorp,DC=ecorp,DC=laboratory
